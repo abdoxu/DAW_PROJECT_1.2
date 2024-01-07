@@ -49,7 +49,7 @@ Development of a Web Platform for the Prediction and Management of Video Game Ad
 
     **Navigate to the Repository:**
    
-    Go to the GitHub repository you want to fork. For example, if you want to fork the repository at https://github.com/DIZAD99/DAW_Project.git
+    Go to the GitHub repository you want to fork. For example, if you want to fork the repository at [https://github.com/DIZAD99/DAW_Project.git](https://github.com/kh-aymen/DAW_PROJECT_1.2.git)
    
     **Fork the Repository:**
    
